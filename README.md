@@ -23,7 +23,7 @@ The website includes a responsive design, animated UI elements, individual proje
 - JavaScript
 
 ## Live Demo
-👉 https://yourusername.github.io/CSC419-Portfolio/
+👉 https://juliusuwajeh.github.io/CSC-419-FINAL-YEAR-ASSIGNMENT/index.html#about
 
 ## Repository Link
-👉 https://github.com/yourusername/CSC419-Portfolio
+👉 https://github.com/juliusuwajeh/CSC-419-FINAL-YEAR-ASSIGNMENT.git
